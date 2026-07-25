@@ -1,9 +1,7 @@
 streamlit
-transformers==4.41.2
-tokenizers==0.19.1
-sentencepiece==0.2.0
-huggingface-hub==0.36.2
+transformers
 torch
+sentencepiece
 PyPDF2
 fpdf
 wikipedia
